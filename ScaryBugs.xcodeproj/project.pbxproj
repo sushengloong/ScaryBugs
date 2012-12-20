@@ -19,6 +19,23 @@
 		2C4881EA1683546F0048C35D /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C4881E81683546F0048C35D /* MainStoryboard.storyboard */; };
 		2C4881ED1683546F0048C35D /* MasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C4881EC1683546F0048C35D /* MasterViewController.m */; };
 		2C4881F01683546F0048C35D /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C4881EF1683546F0048C35D /* DetailViewController.m */; };
+		2C4881FA1683559F0048C35D /* ScaryBugData.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C4881F91683559F0048C35D /* ScaryBugData.m */; };
+		2C4881FD168356B60048C35D /* ScaryBugDoc.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C4881FC168356B60048C35D /* ScaryBugDoc.m */; };
+		2C48820816835BB00048C35D /* attribution.txt in Resources */ = {isa = PBXBuildFile; fileRef = 2C4881FF16835BB00048C35D /* attribution.txt */; };
+		2C48820916835BB00048C35D /* centipede.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C48820016835BB00048C35D /* centipede.jpg */; };
+		2C48820A16835BB00048C35D /* centipedeThumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C48820116835BB00048C35D /* centipedeThumb.jpg */; };
+		2C48820B16835BB00048C35D /* ladybug.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C48820216835BB00048C35D /* ladybug.jpg */; };
+		2C48820C16835BB00048C35D /* ladybugThumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C48820316835BB00048C35D /* ladybugThumb.jpg */; };
+		2C48820D16835BB00048C35D /* potatoBug.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C48820416835BB00048C35D /* potatoBug.jpg */; };
+		2C48820E16835BB00048C35D /* potatoBugThumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C48820516835BB00048C35D /* potatoBugThumb.jpg */; };
+		2C48820F16835BB00048C35D /* wolfSpider.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C48820616835BB00048C35D /* wolfSpider.jpg */; };
+		2C48821016835BB00048C35D /* wolfSpiderThumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C48820716835BB00048C35D /* wolfSpiderThumb.jpg */; };
+		2C488214168360C80048C35D /* RateView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C488213168360C80048C35D /* RateView.m */; };
+		2C488218168360F70048C35D /* UIImageExtras.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C488217168360F70048C35D /* UIImageExtras.m */; };
+		2C48821E168361240048C35D /* logo1.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C48821A168361240048C35D /* logo1.png */; };
+		2C48821F168361240048C35D /* shockedface2_empty.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C48821B168361240048C35D /* shockedface2_empty.png */; };
+		2C488220168361240048C35D /* shockedface2_full.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C48821C168361240048C35D /* shockedface2_full.png */; };
+		2C488221168361240048C35D /* shockedface2_half.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C48821D168361240048C35D /* shockedface2_half.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +57,27 @@
 		2C4881EC1683546F0048C35D /* MasterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MasterViewController.m; sourceTree = "<group>"; };
 		2C4881EE1683546F0048C35D /* DetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
 		2C4881EF1683546F0048C35D /* DetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
+		2C4881F81683559F0048C35D /* ScaryBugData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScaryBugData.h; sourceTree = "<group>"; };
+		2C4881F91683559F0048C35D /* ScaryBugData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScaryBugData.m; sourceTree = "<group>"; };
+		2C4881FB168356B60048C35D /* ScaryBugDoc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScaryBugDoc.h; sourceTree = "<group>"; };
+		2C4881FC168356B60048C35D /* ScaryBugDoc.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScaryBugDoc.m; sourceTree = "<group>"; };
+		2C4881FF16835BB00048C35D /* attribution.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = attribution.txt; sourceTree = "<group>"; };
+		2C48820016835BB00048C35D /* centipede.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = centipede.jpg; sourceTree = "<group>"; };
+		2C48820116835BB00048C35D /* centipedeThumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = centipedeThumb.jpg; sourceTree = "<group>"; };
+		2C48820216835BB00048C35D /* ladybug.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ladybug.jpg; sourceTree = "<group>"; };
+		2C48820316835BB00048C35D /* ladybugThumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ladybugThumb.jpg; sourceTree = "<group>"; };
+		2C48820416835BB00048C35D /* potatoBug.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = potatoBug.jpg; sourceTree = "<group>"; };
+		2C48820516835BB00048C35D /* potatoBugThumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = potatoBugThumb.jpg; sourceTree = "<group>"; };
+		2C48820616835BB00048C35D /* wolfSpider.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wolfSpider.jpg; sourceTree = "<group>"; };
+		2C48820716835BB00048C35D /* wolfSpiderThumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wolfSpiderThumb.jpg; sourceTree = "<group>"; };
+		2C488212168360C80048C35D /* RateView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RateView.h; sourceTree = "<group>"; };
+		2C488213168360C80048C35D /* RateView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RateView.m; sourceTree = "<group>"; };
+		2C488216168360F70048C35D /* UIImageExtras.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIImageExtras.h; sourceTree = "<group>"; };
+		2C488217168360F70048C35D /* UIImageExtras.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIImageExtras.m; sourceTree = "<group>"; };
+		2C48821A168361240048C35D /* logo1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo1.png; sourceTree = "<group>"; };
+		2C48821B168361240048C35D /* shockedface2_empty.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shockedface2_empty.png; sourceTree = "<group>"; };
+		2C48821C168361240048C35D /* shockedface2_full.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shockedface2_full.png; sourceTree = "<group>"; };
+		2C48821D168361240048C35D /* shockedface2_half.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shockedface2_half.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,13 +124,12 @@
 		2C4881D61683546F0048C35D /* ScaryBugs */ = {
 			isa = PBXGroup;
 			children = (
-				2C4881DF1683546F0048C35D /* AppDelegate.h */,
-				2C4881E01683546F0048C35D /* AppDelegate.m */,
-				2C4881E81683546F0048C35D /* MainStoryboard.storyboard */,
-				2C4881EB1683546F0048C35D /* MasterViewController.h */,
-				2C4881EC1683546F0048C35D /* MasterViewController.m */,
-				2C4881EE1683546F0048C35D /* DetailViewController.h */,
-				2C4881EF1683546F0048C35D /* DetailViewController.m */,
+				2C488219168361060048C35D /* Art */,
+				2C488215168360E20048C35D /* Helpers */,
+				2C488211168360AB0048C35D /* Views */,
+				2C4881FE16835BB00048C35D /* ScaryBugs */,
+				2C4881F7168355680048C35D /* Model */,
+				2C4881F6168355520048C35D /* GUI */,
 				2C4881D71683546F0048C35D /* Supporting Files */,
 			);
 			path = ScaryBugs;
@@ -110,6 +147,76 @@
 				2C4881E61683546F0048C35D /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		2C4881F6168355520048C35D /* GUI */ = {
+			isa = PBXGroup;
+			children = (
+				2C4881DF1683546F0048C35D /* AppDelegate.h */,
+				2C4881E01683546F0048C35D /* AppDelegate.m */,
+				2C4881E81683546F0048C35D /* MainStoryboard.storyboard */,
+				2C4881EB1683546F0048C35D /* MasterViewController.h */,
+				2C4881EC1683546F0048C35D /* MasterViewController.m */,
+				2C4881EE1683546F0048C35D /* DetailViewController.h */,
+				2C4881EF1683546F0048C35D /* DetailViewController.m */,
+			);
+			name = GUI;
+			sourceTree = "<group>";
+		};
+		2C4881F7168355680048C35D /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				2C4881F81683559F0048C35D /* ScaryBugData.h */,
+				2C4881F91683559F0048C35D /* ScaryBugData.m */,
+				2C4881FB168356B60048C35D /* ScaryBugDoc.h */,
+				2C4881FC168356B60048C35D /* ScaryBugDoc.m */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		2C4881FE16835BB00048C35D /* ScaryBugs */ = {
+			isa = PBXGroup;
+			children = (
+				2C4881FF16835BB00048C35D /* attribution.txt */,
+				2C48820016835BB00048C35D /* centipede.jpg */,
+				2C48820116835BB00048C35D /* centipedeThumb.jpg */,
+				2C48820216835BB00048C35D /* ladybug.jpg */,
+				2C48820316835BB00048C35D /* ladybugThumb.jpg */,
+				2C48820416835BB00048C35D /* potatoBug.jpg */,
+				2C48820516835BB00048C35D /* potatoBugThumb.jpg */,
+				2C48820616835BB00048C35D /* wolfSpider.jpg */,
+				2C48820716835BB00048C35D /* wolfSpiderThumb.jpg */,
+			);
+			path = ScaryBugs;
+			sourceTree = "<group>";
+		};
+		2C488211168360AB0048C35D /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				2C488212168360C80048C35D /* RateView.h */,
+				2C488213168360C80048C35D /* RateView.m */,
+			);
+			name = Views;
+			sourceTree = "<group>";
+		};
+		2C488215168360E20048C35D /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				2C488216168360F70048C35D /* UIImageExtras.h */,
+				2C488217168360F70048C35D /* UIImageExtras.m */,
+			);
+			name = Helpers;
+			sourceTree = "<group>";
+		};
+		2C488219168361060048C35D /* Art */ = {
+			isa = PBXGroup;
+			children = (
+				2C48821A168361240048C35D /* logo1.png */,
+				2C48821B168361240048C35D /* shockedface2_empty.png */,
+				2C48821C168361240048C35D /* shockedface2_full.png */,
+				2C48821D168361240048C35D /* shockedface2_half.png */,
+			);
+			name = Art;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -168,6 +275,19 @@
 				2C4881E51683546F0048C35D /* Default@2x.png in Resources */,
 				2C4881E71683546F0048C35D /* Default-568h@2x.png in Resources */,
 				2C4881EA1683546F0048C35D /* MainStoryboard.storyboard in Resources */,
+				2C48820816835BB00048C35D /* attribution.txt in Resources */,
+				2C48820916835BB00048C35D /* centipede.jpg in Resources */,
+				2C48820A16835BB00048C35D /* centipedeThumb.jpg in Resources */,
+				2C48820B16835BB00048C35D /* ladybug.jpg in Resources */,
+				2C48820C16835BB00048C35D /* ladybugThumb.jpg in Resources */,
+				2C48820D16835BB00048C35D /* potatoBug.jpg in Resources */,
+				2C48820E16835BB00048C35D /* potatoBugThumb.jpg in Resources */,
+				2C48820F16835BB00048C35D /* wolfSpider.jpg in Resources */,
+				2C48821016835BB00048C35D /* wolfSpiderThumb.jpg in Resources */,
+				2C48821E168361240048C35D /* logo1.png in Resources */,
+				2C48821F168361240048C35D /* shockedface2_empty.png in Resources */,
+				2C488220168361240048C35D /* shockedface2_full.png in Resources */,
+				2C488221168361240048C35D /* shockedface2_half.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -182,6 +302,10 @@
 				2C4881E11683546F0048C35D /* AppDelegate.m in Sources */,
 				2C4881ED1683546F0048C35D /* MasterViewController.m in Sources */,
 				2C4881F01683546F0048C35D /* DetailViewController.m in Sources */,
+				2C4881FA1683559F0048C35D /* ScaryBugData.m in Sources */,
+				2C4881FD168356B60048C35D /* ScaryBugDoc.m in Sources */,
+				2C488214168360C80048C35D /* RateView.m in Sources */,
+				2C488218168360F70048C35D /* UIImageExtras.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
